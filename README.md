@@ -87,25 +87,48 @@ A fully decentralized cryptocurrency blockchain built with Python. This project 
 <!-- TOC --><a name="1-project-purpose"></a>
 ## 1. Project Purpose
 
+## Project Purpose
+
 This project is designed to serve as both an educational and experimental platform for blockchain technology. Its key objectives include:
 
-- **Decentralization**: No single central entity controls the network. Instead, new blocks are generated and validated by all participating nodes.
-- **Proof-of-Work Integration**: Contributors must expend computational power to mine new blocks. This mechanism ensures a steady pace of block generation.
-- **Cryptocurrency Functionality**: Every participant receives an individual wallet with a unique address and balance, enabling secure transactions.
-- **API-Driven Interaction**: Each network participant is provided with a private API that supports HTTPS requests to read blockchain data, initiate transactions, and mine new blocks.
+- **Decentralization**:  
+  - No single central entity controls the network.
+  - New blocks are generated and validated collectively by all participating nodes, ensuring a trustless and resilient system.
 
-Unlike simple tutorial implementations, this project adds:
-- Hybrid cryptographic architecture (RSA + SHA-256 with salting)
-- Dynamic difficulty adjustment algorithm
-- Transaction fee market simulation
-- Network latency-aware block propagation
-- Frontend visualization of blockchain state transitions
+- **Proof-of-Work Integration**:  
+  - Contributors must expend computational power to mine new blocks.
+  - This mechanism guarantees a steady, controlled pace of block generation, making it computationally expensive to manipulate the blockchain.
+
+- **Cryptocurrency Functionality**:  
+  - Each participant receives a unique wallet with its own address and balance.
+  - Secure transactions are enabled, allowing users to exchange cryptocurrency seamlessly within the network.
+
+- **API-Driven Interaction**:  
+  - Every network participant is provided with a private API.
+  - This API supports HTTPS requests for reading blockchain data, initiating transactions, and triggering block mining.
+
+In addition to these core features, the project distinguishes itself from simple tutorial implementations by incorporating advanced functionalities such as:
+
+- **Hybrid Cryptographic Architecture**:  
+  - Utilizes RSA and SHA-256 with salting to enhance data security and integrity.
+
+- **Dynamic Difficulty Adjustment Algorithm**:  
+  - Automatically adapts the mining difficulty to maintain consistent block generation, regardless of fluctuations in network computational power.
+
+- **Transaction Fee Market Simulation**:  
+  - Introduces realistic economic incentives by simulating transaction fees, mimicking real-world cryptocurrency behavior.
+
+- **Network Latency-Aware Block Propagation**:  
+  - Optimizes block dissemination across nodes by considering network latency, ensuring efficient and timely synchronization.
+
+- **Frontend Visualization of Blockchain State Transitions**:  
+  - Provides a dynamic, user-friendly interface to monitor real-time changes and transitions within the blockchain, enhancing transparency and usability.
 
 *Self-Inquiry*:
 - **Q:** Why implement a decentralized structure?  
-  **A:** It ensures trustless operation and resilience against central points of failure.
+  **A:** It ensures a trustless, resilient system that eliminates single points of failure.
 - **Q:** How does proof-of-work contribute to security?  
-  **A:** It makes it computationally expensive to manipulate the blockchain, protecting it against rapid and fraudulent block creation.
+  **A:** It makes the creation of fraudulent blocks computationally prohibitive, safeguarding the blockchain against rapid and unauthorized modifications.
 
 ---
 
