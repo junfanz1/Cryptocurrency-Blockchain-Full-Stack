@@ -640,7 +640,7 @@ The design of this platform involves several tradeoffs:
 
 5. **Run the Application and API**
 
-Make sure to activate the virtual environment.
+- Make sure to activate the virtual environment.
 
 
     ```
@@ -649,7 +649,7 @@ Make sure to activate the virtual environment.
 
 6. **Run a Peer Instance**
 
-Make sure to activate the virtual environment.
+- Make sure to activate the virtual environment.
 
   
     ```
@@ -658,7 +658,7 @@ Make sure to activate the virtual environment.
 
 7. **Run the Frontend**
 
-In the Frontend directory:
+- In the Frontend directory:
 
   
     ```
@@ -667,7 +667,7 @@ In the Frontend directory:
 
 8. **Seed the backend with data**
 
-Make sure to activate the virtual environment.
+- Make sure to activate the virtual environment.
 
   
     ```
