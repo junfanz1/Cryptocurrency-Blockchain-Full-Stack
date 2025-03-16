@@ -2,7 +2,7 @@
 <!-- TOC --><a name="cryptocurrency-blockchain-full-stack-platform"></a>
 # Cryptocurrency Blockchain Full-Stack Platform
 
-A fully decentralized cryptocurrency blockchain built with Python. This project not only demonstrates the fundamentals of blockchain technology but also implements a democratic, distributed network where block creation, validation, and network maintenance are equally shared among all contributors.
+A fully decentralized cryptocurrency blockchain built with Python. This project not only demonstrates the fundamentals of blockchain technology but also implements a democratic, distributed network where block creation, validation, and network maintenance are equally shared among all contributors. This project provides a comprehensive, decentralized cryptocurrency blockchain platform. It combines a clear, modular codebase with practical implementations of core blockchain concepts such as proof-of-work, distributed consensus, and secure transactions. 
 
 <!-- TOC --><a name="content"></a>
 ## Content
@@ -836,3 +836,6 @@ The design of this platform involves several tradeoffs:
 
 ---
 
+## Acknowledgements
+
+[Udemy: Python, JS, React & Blockchain](https://www.udemy.com/course/python-js-react-blockchain)
