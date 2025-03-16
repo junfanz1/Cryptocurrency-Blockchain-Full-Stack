@@ -87,9 +87,7 @@ A fully decentralized cryptocurrency blockchain built with Python. This project 
 <!-- TOC --><a name="1-project-purpose"></a>
 ## 1. Project Purpose
 
-## Project Purpose
-
-This project is designed to serve as both an educational and experimental platform for blockchain technology. Its key objectives include:
+This project is designed to serve as experimental platform for blockchain technology. Its key objectives include:
 
 - **Decentralization**:  
   - No single central entity controls the network.
