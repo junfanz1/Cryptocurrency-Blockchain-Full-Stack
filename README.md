@@ -260,12 +260,12 @@ This multi-block paginated view demonstrates scalability and user-friendliness f
 
 <!-- TOC --><a name="overview-3"></a>
 #### Overview  
-This page enables users to create and broadcast cryptocurrency transactions within the decentralized blockchain network. It provides a form to specify the recipient's address (e.g., `jurion`) and the amount to transfer (e.g., `500`). Submitted transactions are temporarily stored in the transaction pool until validated and mined into a new block. The page also displays "Known Addresses" to assist users in selecting valid recipients.
+This page enables users to create and broadcast cryptocurrency transactions within the decentralized blockchain network. It provides a form to specify the recipient's address (e.g., `junfan`) and the amount to transfer (e.g., `500`). Submitted transactions are temporarily stored in the transaction pool until validated and mined into a new block. The page also displays "Known Addresses" to assist users in selecting valid recipients.
 
 <!-- TOC --><a name="functionality-demonstrated-3"></a>
 #### Functionality Demonstrated  
 - **Transaction Creation**:  
-  - Users input a recipient’s address and transfer amount (e.g., `jurion` and `500`).  
+  - Users input a recipient’s address and transfer amount (e.g., `junfan` and `500`).  
   - A "Submit" button triggers the transaction broadcast to the network.  
 - **Known Addresses List**:  
   - Displays wallet addresses of participants in the blockchain network (e.g., `2714910c`, `fe40254b`).  
