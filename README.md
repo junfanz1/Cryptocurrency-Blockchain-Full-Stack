@@ -632,6 +632,7 @@ The design of this platform involves several tradeoffs:
 4. **Run the Tests**
 
 Make sure to activate the virtual environment.
+
   
     ```
     python3 -m pytest backend/tests
@@ -641,6 +642,7 @@ Make sure to activate the virtual environment.
 
 Make sure to activate the virtual environment.
 
+
     ```
     python3 -m backend.app
     ```
@@ -648,6 +650,7 @@ Make sure to activate the virtual environment.
 6. **Run a Peer Instance**
 
 Make sure to activate the virtual environment.
+
   
     ```
     export PEER=True && python3 -m backend.app
@@ -656,6 +659,7 @@ Make sure to activate the virtual environment.
 7. **Run the Frontend**
 
 In the Frontend directory:
+
   
     ```
     npm run start
@@ -664,6 +668,7 @@ In the Frontend directory:
 8. **Seed the backend with data**
 
 Make sure to activate the virtual environment.
+
   
     ```
     export SEED_DATA=True && python3 -m backend.app
