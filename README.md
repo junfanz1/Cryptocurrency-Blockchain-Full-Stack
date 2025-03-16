@@ -838,4 +838,4 @@ The design of this platform involves several tradeoffs:
 
 ## Acknowledgements
 
-[Udemy: Python, JS, React & Blockchain](https://www.udemy.com/course/python-js-react-blockchain)
+[Udemy: Python, JS, & React | Build a Blockchain & Cryptocurrency](https://www.udemy.com/course/python-js-react-blockchain)
