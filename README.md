@@ -631,7 +631,7 @@ The design of this platform involves several tradeoffs:
 
 4. **Run the Tests**
 
-Make sure to activate the virtual environment.
+- Make sure to activate the virtual environment.
 
   
     ```
