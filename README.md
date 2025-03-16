@@ -549,55 +549,55 @@ Build blockchain of cryptocurrency. We have a full decentralized blockchain that
 
 2. **Activate Virtual Environment**
 
-```
-source blockchain-env/bin/activate 
-```
+  ```
+  source blockchain-env/bin/activate 
+  ```
 
 3. **Install All Packages**
 
-```
-pip3 install -r requirements.txt
-```
+  ```
+  pip3 install -r requirements.txt
+  ```
 
 4. **Run the Tests**
 
 Make sure to activate the virtual environment.
 
-```
-python3 -m pytest backend/tests
-```
+  ```
+  python3 -m pytest backend/tests
+  ```
 
 5. **Run the Application and API**
 
 Make sure to activate the virtual environment.
 
-```
-python3 -m backend.app
-```
+  ```
+  python3 -m backend.app
+  ```
 
 6. **Run a Peer Instance**
 
 Make sure to activate the virtual environment.
-
-```
-export PEER=True && python3 -m backend.app
-```
+  
+  ```
+  export PEER=True && python3 -m backend.app
+  ```
 
 7. **Run the Frontend**
 
 In the Frontend directory:
-
-```
-npm run start
-```
+  
+  ```
+  npm run start
+  ```
 
 8. **Seed the backend with data**
 
 Make sure to activate the virtual environment.
-
-```
-export SEED_DATA=True && python3 -m backend.app
-```
+  
+  ```
+  export SEED_DATA=True && python3 -m backend.app
+  ```
 
 <!-- TOC --><a name="13-code-explanation"></a>
 ## 13. Code Explanation
